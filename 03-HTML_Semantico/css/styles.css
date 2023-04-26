@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+    width: 100%;
+    height: 100%;
+}
+.class {
+    background-color: burlywood;
+}
+#id {
+    width: 200px;
+}
+.menu {
+    background-image: url("https://brandemia.org/contenido/subidas/2017/10/logo_youtube-1-960x640.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 3px dashed red;
+}
+.menu .list li {
+    color: brown;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: overline;
+}
+h1:hover {
+    font-size: 40px;
+    color: blue;
+}
