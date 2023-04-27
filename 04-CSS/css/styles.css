@@ -1,0 +1,22 @@
+/*div {
+    background-color: rgb(122, 48, 122);
+    color: white;
+    padding: 15px;
+    border: 10px solid transparent;
+    margin: 5px;
+}*/
+p {
+    background-color: aquamarine;
+    text-align: center;
+    width: 100%;
+}
+.parent {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+.child {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+}
